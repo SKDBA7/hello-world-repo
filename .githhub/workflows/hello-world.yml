@@ -1,6 +1,6 @@
 name: hello world
   on:
-    push
+      push
   jobs:
     hello-job:
       runner-on: ubuntu-latest
